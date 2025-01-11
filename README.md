@@ -1,3 +1,1 @@
 # Projects
-# Projects
-# projects-public
